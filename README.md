@@ -1,4 +1,4 @@
-# 🛒 Walmart Sales Analytics | ELT Project
+# 🛒 Walmart Sales Analysis | ELT Project
 
 ##  Project Overview
 
